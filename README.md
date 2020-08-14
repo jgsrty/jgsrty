@@ -3,10 +3,12 @@
   <a href="https://rtyxmd.gitee.io">Inland Blog Entry</a> &
   <a href="https://jgsrty.github.io">Global Blog Entry</a>
 </p>
-<p align="center"> 
-  <img src="https://rtyxmd.gitee.io/rtyresources2019/zelda-cover.jpg" />
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jgsrty&show_icons=true&theme=radical" />
 </p>
-
+<!-- <p align="center"> 
+  <img src="https://rtyxmd.gitee.io/rtyresources2019/zelda-cover.jpg" />
+</p> -->
 <!--
 **jgsrty/jgsrty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
