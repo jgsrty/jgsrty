@@ -6,10 +6,11 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jgsrty&show_icons=true&theme=radical" />
 </p>
-<!-- <p align="center"> 
-  <img src="https://rtyxmd.gitee.io/rtyresources2019/zelda-cover.jpg" />
-</p> -->
-<!--
+## Visitor Statistics <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+<p align="center">
+  <img src="https://profile-counter.glitch.me/jgsrty/count.svg" />
+</p>
+
 **jgsrty/jgsrty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
