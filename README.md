@@ -14,7 +14,7 @@
 </p>
 
 ## Tech Stack <img src="https://avatars0.githubusercontent.com/u/1680273?s=460&u=4471b74deb9973096418a93960c664c5ea3bd159&v=4" width="30">
-<table align="center">
+<!-- <table align="center">
     <tr>
       <td align="center">
         <img alt="vue" height=64px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
@@ -94,4 +94,4 @@
         <img alt="c++" height=64px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
       </td>
     </tr>
-</table>
+</table> -->
