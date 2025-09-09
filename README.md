@@ -7,11 +7,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jgsrty&show_icons=true&theme=radical" />
 </p>
 
-## Visitor Statistics <img src="https://github.githubassets.com/images/modules/site/home/logos/platform-linux.svg" width="30">
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/jgsrty/count.svg" />
-</p>
 
 <!-- ## Tech Stack <img src="https://avatars0.githubusercontent.com/u/1680273?s=460&u=4471b74deb9973096418a93960c664c5ea3bd159&v=4" width="30">
 <table align="center">
